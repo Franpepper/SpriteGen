@@ -1,0 +1,19 @@
+{
+    "name": "spritegen",
+    "displayName": "SpriteGen",
+    "description": "Generate pixel art using local Stable Diffusion models",
+    "version": "0.2.1a",
+    "author": {
+        "name": "Fran",
+        "email": "franpepper94@gmail.com"
+    },
+    "license": "MIT",
+    "categories": ["Scripts"],
+    "contributes": {
+        "scripts": [
+            {
+                "path": "./main.lua"
+            }
+        ]
+    }
+}
